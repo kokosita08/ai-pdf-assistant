@@ -9,7 +9,7 @@ const MAX_CONTEXT_LENGTH = 40000;
 
 // The Gemini API endpoint — we use gemini-1.5-flash which is free
 const GEMINI_API_URL =
-"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent";
+"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
