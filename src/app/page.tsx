@@ -426,7 +426,6 @@ export default function HomePage() {
           background: "rgba(2, 30, 34, 0.7)",
           backdropFilter: "blur(20px)",
           WebkitBackdropFilter: "blur(20px)",
-          backdropFilter: "blur(10px)",
           position: "sticky", top: 0, zIndex: 10,
           padding: "0 16px"
         }}>
