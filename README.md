@@ -53,16 +53,12 @@ No account required. Upload a PDF and start immediately.
 
 ---
 
-## Screenshots
 
-> _Screenshots coming soon — demo video in progress._
+## Demo Video
 
-| Feature | Preview |
-|---------|---------|
-| Home Screen | _(upload screenshot here)_ |
-| PDF Summary | _(upload screenshot here)_ |
-| Mind Map | _(upload screenshot here)_ |
-| Chat Interface | _(upload screenshot here)_ |
+[![AbyssNote AI Demo](https://img.youtube.com/vi/oJ61UMrG6u4/0.jpg)](https://www.youtube.com/watch?v=oJ61UMrG6u4)
+
+> Click the thumbnail above to watch the full demo.
 
 ---
 
